@@ -81,9 +81,9 @@
 
 <div align="center">
 <a href="https://github.com/imashaRan12">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imashaRan12&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="imashaRan12's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=imashaRan12&theme=merko&hide_border=true&cache_seconds=86400" alt="imashaRan12's GitHub Streak" width="49%" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imashaRan12&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="imashaRan12's GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=imashaRan12&theme=merko&hide_border=true&cache_seconds=86400" alt="imashaRan12's GitHub Streak" />
+</a>
 </div>
 <div align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=imashaRan12&theme=merko&radius=10" alt="imashaRan12's Activity Graph" />
